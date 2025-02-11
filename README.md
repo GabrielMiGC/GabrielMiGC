@@ -28,6 +28,9 @@ Here are some of the projects I've worked on:
 2. **[Kpop_all_stars](https://github.com/GabrielMiGC/projeto-kpop-BD-JS)**
    - Description: An JS based API made to interact with a PostgreSQL database. Made in five days to be used in a college assignment.
    - Technologies: PostgreSQL, Docker, JavaScript.
+3. **[N-Puzzle Solver](https://github.com/GabrielMiGC/N-Puzzle)**
+   - Description: An IA solver for the N-Puzzle game, using A* (A Star) algorithms.
+   - Technologies: Python
 
 Projects i'm working on at the moment:
 1. **[Excite-Bike](https://github.com/GabrielMiGC/Excite-Bike-remake-)**
