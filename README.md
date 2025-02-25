@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm a software developer college student with a fo
 Here are some of the projects I've worked on:
 
 1. **[Jade](https://github.com/GabrielMiGC/Jade)**
-   - Description: A brief description of what the project does.
-   - Technologies: List of technologies used.
+   - Description: A virtual Jewelry, made with CSS, Node.js, with a database made with MySQL and running on docker. Made with a team of dutyful colleagues.
+   - Technologies: HTML, CSS, JS, NODE, MySQL, Docker.
 
 2. **[Kpop_all_stars](https://github.com/GabrielMiGC/projeto-kpop-BD-JS)**
    - Description: An JS based API made to interact with a PostgreSQL database. Made in five days to be used in a college assignment.
