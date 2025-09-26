@@ -1,12 +1,12 @@
 # Hi there, I'm GabrielMiGC 👋
 
-Welcome to my GitHub profile! I'm a software developer college student with a focus on Computer Vision, Data Science and some Web Development. Here you'll find a collection of my projects, side-projects, and contributions.
+Welcome to my GitHub profile! I'm a software developer college student with a focus on Database development, Data Science and some Web Development. Here you'll find a collection of my projects, side-projects, and contributions.
 
 ## About Me
 
 - **Name:** Gabriel Miranda G.C
 - **Location:** Ceará & Bahia - Brazil
-- **Interests:** Software Development, Open Source, AI, Machine Learning, Web Development
+- **Interests:** Software Development, Open Source, Databases, Machine Learning, Web Development, ETL
 - **Languages:** JavaScript, Python, C, and more...
 
 ## GitHub Stats
@@ -31,11 +31,12 @@ Here are some of the projects I've worked on:
 3. **[N-Puzzle Solver](https://github.com/GabrielMiGC/N-Puzzle)**
    - Description: An IA solver for the N-Puzzle game, using A* (A Star) algorithms.
    - Technologies: Python
-
-Projects i'm working on at the moment:
-1. **[Excite-Bike](https://github.com/GabrielMiGC/Excite-Bike-remake-)**
+4. **[Excite-Bike](https://github.com/GabrielMiGC/Excite-Bike-remake-)**
    - Description: A attemptive of remake of the NES game Excite Bike, made entirely in python using OpenGL for a college assignment.
    - Technologies: Python, OpenGL, Blender.
+
+Personal Projects i'm working on at the moment:
+
 
 ## Get in Touch
 
@@ -49,6 +50,3 @@ Feel free to reach out if you have any questions, suggestions, or just want to c
 If you like my work, consider connecting on LinkedIn!
 
 Thank you for visiting my profile!
-
----
-⭐️ From [GabrielMiGC](https://github.com/GabrielMiGC)
