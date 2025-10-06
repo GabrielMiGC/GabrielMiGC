@@ -36,7 +36,7 @@ Here are some of the projects I've worked on:
    - Technologies: Python, OpenGL, Blender.
 
 Personal Projects i'm working on at the moment:
-1. **UFCGate**
+1. **[UFCGate](https://github.com/GabrielMiGC/UFCGate)**
    - Description: Biometric authentication system designed to elevate the security levels at UFC - Campus Russas (my uni).
    - Technologies: Python (Djngo + PySerial), Arduino, Docker, PostgreSQL
 
