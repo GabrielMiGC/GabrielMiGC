@@ -24,21 +24,23 @@ Here are some of the projects I've worked on:
 1. **[Jade](https://github.com/GabrielMiGC/Jade)**
    - Description: A virtual Jewelry, made with CSS, Node.js, with a database made with MySQL and running on docker. Made with a team of dutyful colleagues.
    - Technologies: HTML, CSS, JS, NODE, MySQL, Docker.
-
-2. **[Kpop_all_stars](https://github.com/GabrielMiGC/projeto-kpop-BD-JS)**
-   - Description: An JS based API made to interact with a PostgreSQL database. Made in five days to be used in a college assignment.
-   - Technologies: PostgreSQL, Docker, JavaScript.
+2. **[Orkestra (ETL Pipeline)](https://github.com/GabrielMiGC/Orkestra-ETL)**
+   - Description: A demonstration and POC pipeline for Orkestra (a Miranda Labs project), made entirely on Databricks using PySpark and SQL.
+   - Technologies: PostgreSQL, Databricks, Spark.
 3. **[N-Puzzle Solver](https://github.com/GabrielMiGC/N-Puzzle)**
    - Description: An IA solver for the N-Puzzle game, using A* (A Star) algorithms.
    - Technologies: Python
 4. **[Excite-Bike](https://github.com/GabrielMiGC/Excite-Bike-remake-)**
    - Description: A attemptive of remake of the NES game Excite Bike, made entirely in python using OpenGL for a college assignment.
    - Technologies: Python, OpenGL, Blender.
-
-Personal Projects i'm working on at the moment:
-1. **[UFCGate](https://github.com/GabrielMiGC/UFCGate)**
+5. **[UFCGate](https://github.com/GabrielMiGC/UFCGate)**
    - Description: Biometric authentication system designed to elevate the security levels at UFC - Campus Russas (my uni).
    - Technologies: Python (Djngo + PySerial), Arduino, Docker, PostgreSQL
+
+Personal Projects i'm working on at the moment:
+1. **[NutriPro]**
+   - Description: SaaS project directed to nutritionists.
+   - Technologies: TypeScript, Docker, PostgreSQL, Z-API, Google Cloud.
 
 
 ## Get in Touch
